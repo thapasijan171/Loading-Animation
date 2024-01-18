@@ -24,4 +24,4 @@ Follow these simple steps to get started with the loading animation:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/loading-animation.git
+   git clone https://github.com/thapasijan171/loading-animation.git
