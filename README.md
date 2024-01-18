@@ -1,4 +1,4 @@
-# Loading Animation
+# Loading Animations
 
 A minimalistic loading animation created using HTML and CSS. Perfect for indicating background processes or content loading in your web applications.
 
