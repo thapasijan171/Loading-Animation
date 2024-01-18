@@ -42,7 +42,7 @@ Integrate the loading animation into your web project effortlessly. Use it to si
     </section>
 ```
 
-Customization
+## Customization
 
 Feel free to customize the loading animation to match your project's design. Adjust the colors, size, or animation speed by modifying the styles in the styles.css file.
 
@@ -92,11 +92,11 @@ Feel free to customize the loading animation to match your project's design. Adj
       }
 ```
 
-Contributing
+## Contributing
 
 Contributions are welcome! If you have any ideas, enhancements, or bug fixes, please open an issue or submit a pull request.
 
-License
+## License
 
 ```bash
 
