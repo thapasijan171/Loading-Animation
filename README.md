@@ -17,6 +17,8 @@ A minimalistic loading animation created using HTML and CSS. Perfect for indicat
 
 You can view a live demo of the loading animation [here](#).
 
+![screenshot](screenshot.jpg)
+
 ## Getting Started
 
 Follow these simple steps to get started with the loading animation:
